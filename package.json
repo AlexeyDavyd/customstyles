@@ -1,0 +1,19 @@
+{
+  "name": "customstyles",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexeyDavyd/customstyles.git"
+  },
+  "author": "Alexey Davydov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexeyDavyd/customstyles/issues"
+  },
+  "homepage": "https://github.com/AlexeyDavyd/customstyles#readme"
+}
